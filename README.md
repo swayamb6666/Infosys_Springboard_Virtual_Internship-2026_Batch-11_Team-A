@@ -1,17 +1,10 @@
 # Infosys_Springboard_Virtual_Internship-2026_Batch-11_Team-A
 Capstone project for the Infosys Springboard Virtual Internship (2026 Batch – Team A). This project analyzes Indian election data using Power BI, featuring interactive dashboards on election overview, party performance, demographics, trend analysis, close contests, and winning factor evaluation.
 
-# ElectViz: Election Data Visualization for Media 
+## Project Title - ElectViz: Election Data Visualization for Media 
 
 A comprehensive analytical dashboard system for understanding Indian election patterns, voter behavior, and winning factors.
 
-
-
-# Election Analytics and Winning Factor Analysis using Power BI
-
-A comprehensive analytical dashboard system for understanding Indian election patterns, voter behavior, and winning factors.
-
----
 
 ## Project Overview
 
@@ -19,7 +12,7 @@ This project was developed as part of the **Infosys Springboard Virtual Internsh
 
 The project delivers **seven interactive Power BI dashboards** that transform complex electoral data into clear, actionable insights through effective data visualization and storytelling.
 
----
+
 
 ## Problem Statement
 
@@ -36,7 +29,7 @@ Election data is inherently complex and multi-dimensional, involving numerous fa
 
 Traditional tabular analysis fails to provide clear explanations for these phenomena. This project bridges that gap by transforming raw data into **visual, insight-driven dashboards** that explain both *what happened* and *why it happened*.
 
----
+
 
 ## Dataset Information
 
@@ -69,7 +62,7 @@ The dataset is sourced from publicly available Indian election data repositories
 - Validated for accuracy and consistency
 - Structured for optimal performance in Power BI
 
----
+
 
 ## Tools and Technologies
 
@@ -80,7 +73,7 @@ The dataset is sourced from publicly available Indian election data repositories
 | **Power Query** | Data cleaning, transformation, and modeling |
 | **Microsoft Excel / CSV** | Raw data storage and preprocessing |
 
----
+
 
 ## Visualizations Used
 
@@ -95,7 +88,7 @@ The dashboards emphasize visual storytelling over raw tables, utilizing:
 - **Shape Map** — Geographical analysis
 - **Slicers and Buttons** — Interactive filtering and navigation
 
----
+
 
 ## Key Insights
 
@@ -115,7 +108,7 @@ The dashboards emphasize visual storytelling over raw tables, utilizing:
 - Strategic vote distribution across constituencies matters more than raw vote share
 - Winning margin efficiency is a critical factor in seat conversion
 
----
+
 
 ## Dashboard Structure
 
@@ -129,7 +122,7 @@ The project comprises seven interactive dashboards, each focusing on a specific 
 6. **Trend Analysis** — Electoral trends and patterns over time
 7. **Election Outcome and Winning Factor Analysis** — Determinants of electoral victory
 
----
+
 
 ## Learning Outcomes
 
@@ -153,7 +146,7 @@ This project demonstrates the following competencies and skills:
 - Critical thinking in interpreting complex datasets
 - Professional documentation and reporting
 
----
+
 
 ## Conclusion
 
@@ -161,7 +154,7 @@ This project successfully transforms complex election data into an analytical an
 
 The work showcases the power of data visualization in making sense of multi-dimensional datasets and supporting evidence-based decision-making.
 
----
+
 
 ## Collaborators
 
@@ -194,7 +187,7 @@ This internship has been a significant step in our professional growth and techn
 
 - **Infosys Springboard Virtual Internship** – Course materials and resources
 
----
+
 
 ## License
 
@@ -206,7 +199,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
 
----
+
 
 **Made by Team A - Infosys Springboard Virtual Internship (2026 Batch)**
 
