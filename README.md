@@ -177,7 +177,7 @@ This internship has been a significant step in our professional growth and techn
 
 ## References
 
-- **Election Dataset** – Election Commission of India / Kaggle  
+- **Election Dataset Source** – Kaggle  
   Dataset Link: [https://www.kaggle.com/datasets/awadhi123/indian-election-dataset?select=indian-state-level-election.csv]
 
 - **Microsoft Power BI Documentation**  
