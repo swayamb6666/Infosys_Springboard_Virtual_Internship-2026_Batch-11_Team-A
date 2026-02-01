@@ -1,6 +1,7 @@
 # Infosys_Springboard_Virtual_Internship-2026_Batch-11_Team-A
 Capstone project for the Infosys Springboard Virtual Internship (2026 Batch – Team A). This project analyzes Indian election data using Power BI, featuring interactive dashboards on election overview, party performance, demographics, trend analysis, close contests, and winning factor evaluation.
 
+
 ## Project Title - ElectViz: Election Data Visualization for Media 
 
 A comprehensive analytical dashboard system for understanding Indian election patterns, voter behavior, and winning factors.
@@ -200,7 +201,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
 
 
-
-**Made by Team A - Infosys Springboard Virtual Internship (2026 Batch)**
+**Made by Team A - Infosys Springboard Virtual Internship (2026 Batch-11)**
 
 This project is created strictly for educational and learning purposes as part of the Infosys Springboard Virtual Internship program. The analysis and insights are based on publicly available data and should not be interpreted as political opinions or forecasts.
