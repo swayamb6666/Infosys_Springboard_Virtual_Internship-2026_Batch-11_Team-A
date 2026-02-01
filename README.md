@@ -5,7 +5,7 @@ Capstone project for the Infosys Springboard Virtual Internship (2026 Batch – 
 
 A comprehensive analytical dashboard system for understanding Indian election patterns, voter behavior, and winning factors.
 
----
+
 
 # Election Analytics and Winning Factor Analysis using Power BI
 
