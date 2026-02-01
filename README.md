@@ -15,7 +15,7 @@ The project delivers **seven interactive Power BI dashboards** that transform co
 
 
 
-## Problem Statement
+## Problem Understanding
 
 Election data is inherently complex and multi-dimensional, involving numerous factors such as:
 - Vote margins and turnout percentages
