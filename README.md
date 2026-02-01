@@ -201,6 +201,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the project.
 
 
-## Note : This project is created strictly for educational and learning purposes as part of the Infosys Springboard Virtual Internship program. The analysis and insights are based on publicly available data and should not be interpreted as political opinions or forecasts.
+**Note:** This project is created strictly for educational and learning purposes as part of the Infosys Springboard Virtual Internship program. The analysis and insights are based on publicly available data and should not be interpreted as political opinions or forecasts.
 
 **Made by Team A - Infosys Springboard Virtual Internship (2026 Batch-11)**
