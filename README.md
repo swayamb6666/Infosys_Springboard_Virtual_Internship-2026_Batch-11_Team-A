@@ -13,6 +13,31 @@ This project was developed as part of the **Infosys Springboard Virtual Internsh
 
 The project delivers **seven interactive Power BI dashboards** that transform complex electoral data into clear, actionable insights through effective data visualization and storytelling.
 
+## 📁 Project Files Structure
+
+This repository contains the following files and folders related to the ElectViz Election Analytics Dashboard project:
+
+- **Individual ppt's/**  
+  Contains individual presentation files prepared by team members for project reviews and evaluations.
+
+- **Team ppt/**  
+  Includes the consolidated team presentation showcasing the overall project, dashboard features, and insights.
+
+- **ElectViz Project Completion Report.pdf**  
+  Final project completion report describing objectives, methodology, tools used, dashboard modules, insights, and outcomes.
+
+- **LICENSE**  
+  Specifies the licensing terms under which this project is distributed.
+
+- **README.md**  
+  Provides an overview of the project, setup instructions, file structure, and usage details.
+
+- **election_dashboard_updated.pbix**  
+  Power BI dashboard file containing interactive visualizations, filters, and analytics based on Indian election data.
+
+- **updated_election_data.csv**  
+  Cleaned and preprocessed dataset used as the primary data source for the Power BI dashboard.
+
 
 
 ## Problem Understanding
