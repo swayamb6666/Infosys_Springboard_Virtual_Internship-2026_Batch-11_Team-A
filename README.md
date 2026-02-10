@@ -67,13 +67,6 @@ The dataset is sourced from publicly available Indian election data repositories
 
 ## Tools and Technologies
 
-| Tool | Purpose |
-|------|---------|
-| **Power BI Desktop** | Dashboard development and interactive visualization |
-| **DAX (Data Analysis Expressions)** | Calculated measures, KPIs, and advanced analytics |
-| **Power Query** | Data cleaning, transformation, and modeling |
-| **Microsoft Excel / CSV** | Raw data storage and preprocessing |
-
 | Tool                                | Purpose                                                                |
 | ----------------------------------- | ---------------------------------------------------------------------- |
 | **Power BI Desktop**                | Dashboard development and interactive visualization                    |
