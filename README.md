@@ -20,7 +20,7 @@ This repository contains the following files and folders related to the ElectViz
 - **Individual ppt's/**  
   Contains individual presentation files prepared by team members for project reviews and evaluations.
 
-- **Team ppt/**  
+- **Team ppt**  
   Includes the consolidated team presentation showcasing the overall project, dashboard features, and insights.
 
 - **ElectViz Project Completion Report.pdf**  
