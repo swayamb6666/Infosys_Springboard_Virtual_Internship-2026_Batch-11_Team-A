@@ -9,15 +9,11 @@ A comprehensive analytical dashboard system for understanding Indian election pa
 
 ## Project Overview
 
-Indian elections involve complex dynamics such as vote share
-distribution, constituency-wise competition, demographic diversity, and
-candidate profiles. Raw datasets often fail to convey these complexities
-clearly. 
-ElectViz is a Power BI–based analytical solution designed to transform
-raw election data into interactive dashboards. It provides a structured, visual, and data-driven approach to understanding electoral trends, competitiveness, and winning strategies across elections conducted
-between 2009 and 2021. The project emphasizes clarity, accuracy, and insight generation through
-advanced data modeling and visualization techniques.
+Indian elections involve complex dynamics such as vote share distribution, constituency-level competition, multi-party participation, demographic diversity, and evolving candidate profiles. Raw electoral datasets often contain thousands of records across multiple years, making it difficult to extract meaningful insights through traditional analysis methods. Understanding trends such as swing patterns, voter turnout changes, party dominance, and regional competitiveness requires a structured and analytical approach rather than static tabular data.
 
+ElectViz is a Power BI–based analytical solution developed to transform raw election datasets into interactive, dynamic, and insight-driven dashboards. The project covers elections conducted between 2009 and 2021 and integrates advanced data cleaning, transformation, and modeling techniques to ensure accuracy and reliability. By leveraging Power Query for preprocessing and DAX for calculated measures and KPIs, ElectViz enables users to explore vote share trends, constituency performance, winning margins, and candidate analysis in an intuitive and visually engaging format.
+
+The dashboard emphasizes clarity, data integrity, and strategic insight generation. It allows stakeholders, researchers, and students to analyze party performance across years, identify competitive constituencies, evaluate electoral volatility, and uncover patterns that influence winning strategies. Through interactive filters, slicers, and comparative visualizations, ElectViz converts complex electoral data into actionable insights, supporting data-driven political analysis and informed decision-making.
 ## 📁 Project Files Structure
 
 This repository contains the following files and folders related to the ElectViz Election Analytics Dashboard project:
