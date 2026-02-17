@@ -9,9 +9,14 @@ A comprehensive analytical dashboard system for understanding Indian election pa
 
 ## Project Overview
 
-This project was developed as part of the **Infosys Springboard Virtual Internship (2026 Batch – Team A)**. It focuses on analyzing Indian election data to uncover deep insights into party performance, voter behavior, candidate demographics, election trends, and key winning factors.
-
-The project delivers **seven interactive Power BI dashboards** that transform complex electoral data into clear, actionable insights through effective data visualization and storytelling.
+Indian elections involve complex dynamics such as vote share
+distribution, constituency-wise competition, demographic diversity, and
+candidate profiles. Raw datasets often fail to convey these complexities
+clearly. 
+ElectViz is a Power BI–based analytical solution designed to transform
+raw election data into interactive dashboards. It provides a structured, visual, and data-driven approach to understanding electoral trends, competitiveness, and winning strategies across elections conducted
+between 2009 and 2021. The project emphasizes clarity, accuracy, and insight generation through
+advanced data modeling and visualization techniques.
 
 ## 📁 Project Files Structure
 
